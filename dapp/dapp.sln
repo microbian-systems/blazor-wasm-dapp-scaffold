@@ -1,13 +1,13 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dapp.Server", "Server\dapp.Server.csproj", "{A69D36CF-E1A7-4737-90B2-50F68E497E5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dapp.Server", "Server\dapp.Server.csproj", "{A69D36CF-E1A7-4737-90B2-50F68E497E5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dapp.Client", "Client\dapp.Client.csproj", "{0553F352-5762-4945-96A5-143B64502B55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dapp.Client", "Client\dapp.Client.csproj", "{0553F352-5762-4945-96A5-143B64502B55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dapp.Shared", "Shared\dapp.Shared.csproj", "{286BAB42-66CA-4806-9DD3-97A6F6C9EB3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dapp.Shared", "Shared\dapp.Shared.csproj", "{286BAB42-66CA-4806-9DD3-97A6F6C9EB3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

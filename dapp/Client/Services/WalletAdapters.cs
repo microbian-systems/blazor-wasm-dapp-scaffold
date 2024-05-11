@@ -13,7 +13,7 @@ namespace dapp.Client.Services
         private static readonly string IconsBaseUrl =
             "https://raw.githubusercontent.com/solana-labs/wallet-adapter/master/packages/wallets/icons";
 
-        public static List<WalletProvider> Adapters = new List<WalletProvider>
+        public static List<WalletProvider> Adapters = new()
         {
             new WalletProvider(
                 "Phantom", "https://phantom.app", IconsBaseUrl + "/phantom.svg", "GetPhantomWallet"),

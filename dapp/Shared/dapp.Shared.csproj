@@ -5,4 +5,7 @@
   <ItemGroup>
     <SupportedPlatform Include="browser" />
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="ThrowGuard" Version="1.0.6" />
+  </ItemGroup>
 </Project>

@@ -37,7 +37,7 @@ namespace dapp.Server
             }
             else
             {
-                app.UseExceptionHandler("/Error");
+                app.UseExceptionHandler("/error");
                 
                 app.UseHsts();
             }

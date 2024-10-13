@@ -7,7 +7,7 @@
     <ProjectReference Include="..\Shared\dapp.Shared.csproj" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="8.0.7" />
-    <PackageReference Include="ThrowGuard" Version="1.0.6" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="8.0.10" />
+    <PackageReference Include="ThrowGuard" Version="1.0.7" />
   </ItemGroup>
 </Project>
